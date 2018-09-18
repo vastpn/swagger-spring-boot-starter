@@ -1,0 +1,56 @@
+{
+  "hints": [],
+  "groups": [],
+  "properties": [
+    {
+      "sourceType": "com.vastpn.component.starter.attribute.Swagger2Attribute",
+      "name": "spring.boot.swagger2.enable",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "com.vastpn.component.starter.attribute.Swagger2Attribute",
+      "name": "spring.boot.swagger2.title",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.vastpn.component.starter.attribute.Swagger2Attribute",
+      "name": "spring.boot.swagger2.description",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.vastpn.component.starter.attribute.Swagger2Attribute",
+      "name": "spring.boot.swagger2.termsOfServiceUrl",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.vastpn.component.starter.attribute.Swagger2Attribute",
+      "name": "spring.boot.swagger2.license",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.vastpn.component.starter.attribute.Swagger2Attribute",
+      "name": "spring.boot.swagger2.licenseUrl",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.vastpn.component.starter.attribute.Swagger2Attribute",
+      "name": "spring.boot.swagger2.version",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.vastpn.component.starter.attribute.Swagger2Attribute",
+      "name": "spring.boot.swagger2.contactName",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.vastpn.component.starter.attribute.Swagger2Attribute",
+      "name": "spring.boot.swagger2.contactUrl",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.vastpn.component.starter.attribute.Swagger2Attribute",
+      "name": "spring.boot.swagger2.contactEmail",
+      "type": "java.lang.String"
+    }
+  ]
+}

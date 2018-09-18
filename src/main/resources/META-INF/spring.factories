@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.vastpn.component.starter.configure.Swagger2Configuration
